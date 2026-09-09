@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lloyd Allen</h1>
+<h1 align="center">Hi👋, I'm Lloyd Allen</h1>
 <h3 align="center">A passionate Software Developer from Baton Rouge, LA</h3>
 
 <p align="left">

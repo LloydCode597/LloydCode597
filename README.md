@@ -2,13 +2,6 @@
 
 <h3 align="center">A passionate software developer from Baton Rouge, Louisiana</h3>
 
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=lloydallen597&label=Profile%20views&color=0e75b6&style=flat"
-    alt="Lloyd Allen profile views"
-  />
-</p>
-
 ## About Me
 
 - 🌱 Currently learning **web development** and **game development**
